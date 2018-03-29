@@ -23,6 +23,9 @@
 ### Ionic
 
 * [Ionic Cli](https://ionicframework.com/docs/cli/)
+* [Ionic View](https://ionicframework.com/pro/view)
+* [Ionic DevApp](https://ionicframework.com/docs/pro/devapp/)
+
 
 ### Node Js
 
@@ -45,5 +48,6 @@
 
 ### Other
 
+* [Creator](https://ionicframework.com/pro/creator)
 * [Stencil](https://stenciljs.com/)
 * [Capacitor](https://capacitor.ionicframework.com/)
