@@ -39,14 +39,25 @@
 * [JSON Server](https://github.com/typicode/json-server)
 * [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
 
+### VS Code Plugins
+
+* [Ionic Extension Pack](https://marketplace.visualstudio.com/items?itemName=loiane.ionic-extension-pack)
+* [Ionic Preview](https://marketplace.visualstudio.com/items?itemName=trudan.ionic-preview)
+
+
 ## Additional Resources
 
 ### Rx
 
 * [RxJs](http://reactivex.io/rxjs/)
 * [Rx Marbles](http://rxmarbles.com/)
+* [Learn RxJs](https://www.learnrxjs.io/)
 
-### Other
+### Theming, Css, et al.
+
+* [Sass](http://sass-lang.com/)
+
+### Related
 
 * [Creator](https://ionicframework.com/pro/creator)
 * [Stencil](https://stenciljs.com/)
