@@ -17,6 +17,7 @@
 ### Docs
 
 * [Official Documentation](https://ionicframework.com/docs/)
+* [Ionic Lifecycle Hooks](https://blog.ionicframework.com/navigating-lifecycle-events/)
 
 ## Utilities
 
